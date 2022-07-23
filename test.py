@@ -1,4 +1,4 @@
-print("")
+print("NUM Projects")
 print("Hello world!")
 
-print("I am teacher")
+print("I am students")
