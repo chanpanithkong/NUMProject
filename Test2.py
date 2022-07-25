@@ -1,2 +1,2 @@
-printf("Piseth Sattya")
-printf("NUM Projects")
+print("Piseth Sattya")
+print("A")
